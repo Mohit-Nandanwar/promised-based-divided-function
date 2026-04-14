@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f9;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+
+  justify-content: center;
+}
+
+h1 {
+  color: #4a90e2;
+}
+
+#results {
+  margin-top: 20px;
+  padding: 15px;
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
